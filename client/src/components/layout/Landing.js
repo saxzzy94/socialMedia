@@ -9,7 +9,7 @@ const Landing = ({ isAuthenticated }) => {
   }
 
   return (
-    <section className='landing' style={{background: `url('./img/proland.jpg')` }}>
+    <section className='landing' >
       <div className='dark-overlay'>
         <div className='landing-inner'>
           <h1 className='x-small primary'>Get Connected professionally</h1>
